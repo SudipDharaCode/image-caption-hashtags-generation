@@ -4,4 +4,4 @@ pillow
 python-dotenv
 google-generativeai
 pillow
-os
+python-multipart
