@@ -1,0 +1,7 @@
+fastapi
+uvicorn[standard]
+pillow
+python-dotenv
+google-generativeai
+pillow
+os
